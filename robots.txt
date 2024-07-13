@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cornerow.github.io/sitemap
+Sitemap: https://cornerow.github.io/app/sitemap
+Sitemap: https://cornerow.github.io/assets/sitemap
+Sitemap: https://cornerow.github.io/css/sitemap
+Sitemap: https://cornerow.github.io/includes/sitemap
+Sitemap: https://cornerow.github.io/item/sitemap
+Sitemap: https://cornerow.github.io/src/sitemap
